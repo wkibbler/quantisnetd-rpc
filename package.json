@@ -1,5 +1,5 @@
 {
-  "name": "@quantsisnetevo/quantsisnetd-rpc",
+  "name": "quantsisnetd-rpc",
   "description": "Quantsisnet Client Library to connect to Quantsisnet Core (quantsisnetd) via RPC",
   "version": "1.3.2",
   "author": {
